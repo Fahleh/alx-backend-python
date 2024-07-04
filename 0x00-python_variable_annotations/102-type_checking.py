@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Module for task 12."""
-import typing
+from typing import List, Tuple
 
 
-def zoom_array(lst: typing.Tuple, factor: int = 2) -> typing.List:
-    zoomed_in: typing.List = [
+def zoom_array(lst: Tuple, factor: int = 2) -> List:
+    zoomed_in: List = [
         item for item in lst
         for i in range(factor)
     ]
