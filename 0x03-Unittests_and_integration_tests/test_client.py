@@ -8,7 +8,7 @@ from fixtures import TEST_PAYLOAD
 from parameterized import parameterized, parameterized_class
 
 class TestGithubOrgClient(unittest.TestCase):
-    """ Class for Testing Github Org Client """
+    """Class for Testing Github Org Client"""
 
     @parameterized.expand([
         ("google"),
@@ -18,7 +18,7 @@ class TestGithubOrgClient(unittest.TestCase):
     def test_org(self, data, mock):
         """Test that the client returns the correct value"""
         url = f"https://api.github.com/orgs/{data}"
-        spec = GithubOrgClient(input)
+        spec = GithubOrgClient(data)
         spec.org()
         mock.assert_called_once_with(url)
 
