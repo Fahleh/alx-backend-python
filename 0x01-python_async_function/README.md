@@ -1,7 +1,5 @@
 # 0x01. Python - Async
 
-![Async_meme](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240708T125232Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9e17a3a5b080b6b1b44c59a5ea80f97d702059622b294fabaf85d31ac44cd0ff)
-
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:

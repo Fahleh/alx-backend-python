@@ -1,7 +1,5 @@
 # 0x02. Python - Async Comprehension
 
-![asycn meme](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240709T145441Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a7cd8846e86706695c74ee3108a30701bc0bd860115a534374c6b922b64d97da)
-
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
